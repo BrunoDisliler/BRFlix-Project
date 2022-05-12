@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BRFlix-Project/static/css/main.58e1373c.css",
+    "main.js": "/BRFlix-Project/static/js/main.2e69d7aa.js",
+    "index.html": "/BRFlix-Project/index.html",
+    "static/media/search.svg": "/BRFlix-Project/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58e1373c.css.map": "/BRFlix-Project/static/css/main.58e1373c.css.map",
+    "main.2e69d7aa.js.map": "/BRFlix-Project/static/js/main.2e69d7aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.2e69d7aa.js"
+  ]
+}
